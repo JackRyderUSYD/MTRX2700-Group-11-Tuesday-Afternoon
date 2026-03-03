@@ -5,6 +5,7 @@ Week 1 Meeting notes:
 Date: 24/02/2026 (Tuesday) |
 Time: 4:00pm - 5:00pm |
 Location: In person - Mechatronics Dry Lab |
+
 Attendees:
 - Jack Ryder 
 - Tarang Kant
